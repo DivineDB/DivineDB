@@ -21,12 +21,8 @@
 </p>
 
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
 	
-
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dbdoestuff) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2BnAb4tJ1RESWys9bNI4KdA%3D%3D) 
 
 # 💻 Tech Stack:
@@ -41,19 +37,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 ----
 	
-
-	
 <div>
-
 
 </br></br>
 	
