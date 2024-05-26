@@ -9,7 +9,7 @@
 
 <br><br>
 
-- 🏫 `Btech Computer Science` 3rd Year student at `ITM Gwalior`
+- 🏫 `Btech Computer Science` 4th Year student at `ITM Gwalior`
 - 👨‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
 - 🌟 GDSC Member
 - :nerd_face: Always `Curious`.
