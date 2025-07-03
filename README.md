@@ -9,11 +9,11 @@
 
 <br><br>
 
-- 🏫 `Btech Computer Science` 4th Year student at `ITM Gwalior`
-- 👨‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
-- 🌟 GDSC Member
-- :nerd_face: Always `Curious`.
-- 🎨 `Graphic Designer`. 
+🎓 Computer Science Graduate (2025)
+💻 Worked on full-stack projects using the MERN stack (MongoDB, Express, React, Node.js)
+🎨 Designed user experiences in Figma with advanced prototyping and user flows
+🤝 Open to collaborations and freelance opportunities
+📫 Reach me: divyanshbaghel456@gmail.com
 
 
  ###  <p align=center>
