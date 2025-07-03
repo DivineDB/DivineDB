@@ -9,12 +9,13 @@
 
 <br><br>
 
-🎓 Computer Science Graduate (2025)
-💻 Worked on full-stack projects using the MERN stack (MongoDB, Express, React, Node.js)
-🎨 Designed user experiences in Figma with advanced prototyping and user flows
-🤝 Open to collaborations and freelance opportunities
-📫 Reach me: divyanshbaghel456@gmail.com
-
+<ul>
+<li>🎓 Computer Science Graduate (2025)</li>
+<li>💻 Worked on full-stack projects using the MERN stack (MongoDB, Express, React, Node.js)</li>
+<li>🎨 Designed user experiences in Figma with advanced prototyping and user flows</li>
+<li>🤝 Open to collaborations and freelance opportunities</li>
+<li>📫 Reach me: divyanshbaghel456@gmail.com</li>
+</ul>
 
  ###  <p align=center>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)</p>
